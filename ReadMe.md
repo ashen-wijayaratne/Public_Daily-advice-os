@@ -1,5 +1,5 @@
 # Daily OS
-(Please note that this is not the actual functioning repository. This is just a public samplpe of the core code without personal google credentials and pther private info, the actual repository runs elsewhere)
+(Please note that this is not the actual functioning repository. This is just a public sample of the core code without personal Google credentials and other private info, the actual repository runs elsewhere)
 
 
 Generate a focused, actionable daily morning message using Groq's Llama 3 model. Messages include strategic insights, grit motivation, and a reflection prompt—ideal for mental calibration.
